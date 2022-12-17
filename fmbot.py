@@ -2,8 +2,8 @@ import pylast
 import time
 
 # Your Last.fm API key and secret
-API_KEY = "edeed42a078b0b4a552ba4ab26efb6fe"
-API_SECRET = "0db7c21440d0862148c9ba03ff78134f"
+API_KEY = "YOUR API KEY GOES HERE"
+API_SECRET = "YOUR API SECRET GOES HERE"
 
 # Get Information
 username = input("Username : ")
